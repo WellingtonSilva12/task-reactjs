@@ -1,6 +1,13 @@
-# Task using react and firebase/firestore
+# Lista Tarefa usando react e firebase/firestore
 
-Project created to expand, test and further develop my knowledge 
-of reactjs. And this time I used a non-relational database, which 
-helped me to create, edit and delete the tasks.
-Technologies I used in this application: reactjs, firebase and css.
+
+Projeto criado para expandir, testar e desenvolver ainda mais meus conhecimentos
+de reactjs. E desta vez usei um banco de dados não relacional, que
+me ajudou a criar, editar e excluir as tarefas.
+
+
+### As Tecnologias utilizadas
+
+- ReactJS, firebase and CSS
+
+> ▶ [Project Deployment](https://wellingtonsilva12.github.io/expense-and-income-control/)
