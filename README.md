@@ -10,4 +10,4 @@ me ajudou a criar, editar e excluir as tarefas.
 
 - ReactJS, firebase and CSS
 
-> ▶ [Project Deployment](https://wellingtonsilva12.github.io/expense-and-income-control/)
+>  [▶ Project Deployment](https://wellingtonsilva12.github.io/expense-and-income-control/)
