@@ -97,6 +97,21 @@ form input {
   color: rgb(255, 122, 98);
 }
 @media screen and (max-width: 640px) {
+  form {
+    max-width: 90%;
+    padding: 1.5rem 0.8rem;
+  }
+  .btn_container button {
+    font-size: 14px;
+    right: 16px;
+    top: 28px;
+  }
+  form input {
+    font-size: 14px;
+  }
+  .todo_container {
+    width: 90%;
+  }
   .todo input {
     font-size: 14px;
   }
