@@ -1,4 +1,4 @@
-# Lista Tarefa usando react e firebase/firestore
+# CRUD usando react e firebase/firestore
 
 
 Projeto criado para expandir, testar e desenvolver ainda mais meus conhecimentos
@@ -10,4 +10,4 @@ me ajudou a criar, editar e excluir as tarefas.
 
 - ReactJS, firebase and CSS
 
->  [▶ Project Deployment](https://wellingtonsilva12.github.io/expense-and-income-control/)
+>  [▶ View ](https://fastidious-semifreddo-4c1f31.netlify.app)
