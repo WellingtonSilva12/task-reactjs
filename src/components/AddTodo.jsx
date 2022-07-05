@@ -13,6 +13,8 @@ export default function AddTodo() {
         completed: false,
       });
       setTitle("");
+    } else {
+      alert('Required field (Write your task . . .)')
     }
   };
   return (
