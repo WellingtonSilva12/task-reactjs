@@ -10,4 +10,4 @@ me ajudou a criar, editar e excluir as tarefas.
 
 - ReactJS, firebase and CSS
 
->  [▶ Project Deployment](https://fastidious-semifreddo-4c1f31.netlify.app)
+>  [▶ View ](https://fastidious-semifreddo-4c1f31.netlify.app)
