@@ -32,16 +32,16 @@ export default function Todo({
           className="button-complete"
           onClick={() => toggleComplete(todo)}
         >
-          <FaCheckCircle />
+          ✅
         </button>
         <button
           className="button-edit"
           onClick={() => handleEdit(todo, newTitle)}
         >
-          <FaEdit />
+          🔄
         </button>
         <button className="button-delete" onClick={() => handleDelete(todo.id)}>
-          <FaTrashAlt />
+          ⛔
         </button>
       </div>
     </div>
