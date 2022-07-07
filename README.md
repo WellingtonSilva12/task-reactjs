@@ -8,6 +8,10 @@ me ajudou a criar, editar e excluir as tarefas.
 
 ### As Tecnologias utilizadas
 
-- ReactJS, firebase and CSS
+> ReactJS 
 
->  [▶ View ](https://fastidious-semifreddo-4c1f31.netlify.app)
+> firebase
+
+> CSS
+
+>  ### [ View ](https://fastidious-semifreddo-4c1f31.netlify.app)
